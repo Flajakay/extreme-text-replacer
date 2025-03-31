@@ -38,15 +38,7 @@ Extreme Text Replacer is designed for advanced WordPress users who need to perfo
 3. Enter the text you want to replace it with (leave empty to remove the searched text)
 4. Optionally select a specific category to limit the scope
 5. Check "Dry Run" to preview changes without applying them
-6. Click "Preview Changes" to see affected posts
-7. If the preview looks good, uncheck "Dry Run" and click "Replace Text" to apply changes
-
-## Important Safety Notes
-
-- **Always backup your database before performing replacements**
-- Use caution when replacing WordPress structural elements
-- The plugin will display warnings when attempting to replace potentially dangerous patterns
-- Always use the "Dry Run" feature first to preview changes
+6. If the preview looks good, apply changes
 
 ## Requirements
 
