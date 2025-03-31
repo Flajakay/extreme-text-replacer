@@ -44,11 +44,3 @@ Extreme Text Replacer is designed for advanced WordPress users who need to perfo
 
 - WordPress 5.0 or higher
 - PHP 7.0 or higher
-
-## Support
-
-If you encounter any issues or have questions, please [open an issue](https://github.com/yourusername/extreme-text-replacer/issues) on the GitHub repository.
-
-## Credits
-
-Developed by Flajakay
